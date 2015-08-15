@@ -23,6 +23,8 @@
   "homepage": "https://github.com/Capocaccia/Carterpedia",
   "dependencies": {
     "bootstrap": "^3.3.5",
+    "grunt": "^0.4.5",
+    "jquery": "^2.1.4",
     "skeleton": "^0.1.2"
   }
 }
