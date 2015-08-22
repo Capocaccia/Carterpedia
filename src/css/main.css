@@ -1,0 +1,47 @@
+.main {
+  font-family: "Sans Serif";
+}
+
+.cardHeader {
+  font-family: "Helvetica Neue";
+  border: 1px solid grey;
+  height: 550px;
+  margin-top: -145px;
+  text-align: center;
+}
+
+.cardContents {
+  margin-top: 10px;
+  font-family: "Helvetica Neue";
+  text-align: left;
+}
+
+.contents {
+  font-family: "Helvetica Neue";
+  border: 1px solid grey;
+  height: 500px;
+  margin-top: -400px;
+  margin-left: 300px;
+  text-align: center;
+}
+
+.contentsList {
+  list-style: none
+}
+
+.contentLinks {
+  text-align: left;
+}
+
+.globe {
+  margin-top: 10px;
+  height: 120px;
+  width: 120px;
+  text-align: center;
+  font-family: "Sans Serif";
+  font-weight: bold;
+}
+
+.mainText {
+  font-size: large
+}
