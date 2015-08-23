@@ -6,6 +6,7 @@
   font-family: "Helvetica Neue";
   border: 1px solid grey;
   text-align: center;
+  margin-top: 175px;
 }
 
 .cardContents {
@@ -15,13 +16,9 @@
   text-align: left;
 }
 
-.headshot {
-  height: fill;
-  width: fill;
-}
-
 li {
   list-style : none;
+  margin-left: 10px;
 }
 
 .contentHeader{
@@ -31,7 +28,6 @@ li {
 .contents {
   font-family: "Helvetica Neue";
   border: 1px solid grey;
-  margin-top: -100px;
 }
 
 .oneTwo {
@@ -63,4 +59,11 @@ li {
   font-size: large
 }
 
+.lifeCareer{
+  margin-top: 20px;
+}
 
+.lifeCareerHeader {
+  font-family: "Sans Serif";
+  font-size: 20px;
+}
