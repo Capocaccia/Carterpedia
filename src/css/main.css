@@ -2,27 +2,44 @@
   font-family: "Sans Serif";
 }
 
-.cardHeader {
+.cardBorder {
   font-family: "Helvetica Neue";
   border: 1px solid grey;
-  height: 550px;
-  margin-top: -145px;
   text-align: center;
 }
 
 .cardContents {
   margin-top: 10px;
+  margin-left: 10px;
   font-family: "Helvetica Neue";
   text-align: left;
+}
+
+.headshot {
+  height: fill;
+  width: fill;
+}
+
+li {
+  list-style : none;
+}
+
+.contentHeader{
+  text-align: center;
 }
 
 .contents {
   font-family: "Helvetica Neue";
   border: 1px solid grey;
-  height: 500px;
-  margin-top: -400px;
-  margin-left: 300px;
-  text-align: center;
+  margin-top: -100px;
+}
+
+.oneTwo {
+  margin-left: 20px;
+}
+
+.oneThree {
+  margin-left: 20px;
 }
 
 .contentsList {
@@ -45,3 +62,5 @@
 .mainText {
   font-size: large
 }
+
+
