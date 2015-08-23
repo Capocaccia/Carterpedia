@@ -6,7 +6,7 @@
   font-family: "Helvetica Neue";
   border: 1px solid grey;
   text-align: center;
-  margin-top: 175px;
+  margin-top: 120px;
 }
 
 .cardContents {
@@ -66,5 +66,11 @@ li {
 
 .lifeCareerHeader {
   font-family: "Sans Serif";
+  font-size: 20px;
+}
+
+.contactMe {
+  text-align: right;
+  padding-right: 10px;
   font-size: 20px;
 }
