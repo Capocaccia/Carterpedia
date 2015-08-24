@@ -74,3 +74,8 @@ li {
   padding-right: 10px;
   font-size: 20px;
 }
+
+.headshot {
+  max-width: 100%;
+}
+
