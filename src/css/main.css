@@ -82,12 +82,20 @@ li {
 
 .navFrame {
   border-right: 1px solid #A7D7F9;
+  padding-right: 10px;
 /*  background-color: #f9f9f9;*/
 }
 
 .navHeader {
   text-align: center;
   font-family: "Linux Libertine";
+}
+
+.navTag{
+  margin-top: -30px;
+  font-size: 13px;
+  font-family: "Linux Libertine";
+  text-align: center;
 }
 
 .mainText {
