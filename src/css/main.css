@@ -3,7 +3,7 @@
 }
 
 h3 {
-  margin: 5px 0 0 0;
+  margin: 15px 0 0 0;
 }
 
 a{
@@ -16,9 +16,8 @@ a{
 }
 
 .topHr  {
-  margin: 0 0 0 0;
+  margin: 0 -1000px 0 0;
   border-color: #AAAAAA;
-  margin-right: -1000px;
 }
 
 
@@ -125,7 +124,7 @@ li {
 }
 
 .headshot {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .twitBlue {
