@@ -6,11 +6,16 @@ h3 {
   margin: 5px 0 0 0;
 }
 
+a{
+  text-decoration: none;
+  color: #0645B2;
+}
+
 .h3Tag {
   margin-top: 5px
 }
 
-hr  {
+.topHr  {
   margin: 0 0 0 0;
   border-color: #AAAAAA;
   margin-right: -1000px;
