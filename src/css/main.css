@@ -2,11 +2,21 @@
   font-family: "Sans Serif";
 }
 
+h1 {
+  margin: 5px 0;
+}
+
+hr  {
+  margin: 0 0 0 0;
+}
+
+
 .cardBorder {
   font-family: "Helvetica Neue";
   border: 1px solid grey;
   text-align: center;
   margin-top: 120px;
+  background-color: #f9f9f9;
 }
 
 .cardContents {
@@ -55,6 +65,15 @@ li {
   text-align: center;
 }
 
+.nav {
+  text-align: center;
+}
+
+.navFrame {
+  border-right: 1px solid #A7D7F9;
+  background-color: #f9f9f9;
+}
+
 .navHeader {
   text-align: center;
 }
@@ -76,12 +95,24 @@ li {
   text-align: right;
   padding-right: 10px;
   font-size: 20px;
+  border-bottom: 1px solid #A7D7F9;
+  background-color: #f9f9f9;
+  margin-top: -10px;
+}
+
+.contactMeItems {
+  display: inline;
 }
 
 .headshot {
   max-width: 100%;
 }
 
-.nav {
-  text-align: center;
+.twitBlue {
+  height: 16px;
+  width: 16px;
+}
+
+.pHeaders {
+  margin: 0 0 -5px 0;
 }
