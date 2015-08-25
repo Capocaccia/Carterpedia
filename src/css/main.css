@@ -2,8 +2,12 @@
   font-family: "Sans Serif";
 }
 
-h1 {
-  margin: 5px 0;
+h3 {
+  margin: 5px 0 0 0;
+}
+
+.h3Tag {
+  margin-top: 5px
 }
 
 hr  {
