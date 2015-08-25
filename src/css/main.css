@@ -8,6 +8,8 @@ h1 {
 
 hr  {
   margin: 0 0 0 0;
+  border-color: #AAAAAA;
+  margin-right: -1000px;
 }
 
 
@@ -76,6 +78,7 @@ li {
 
 .navHeader {
   text-align: center;
+  font-family: "Linux Libertine";
 }
 
 .mainText {
