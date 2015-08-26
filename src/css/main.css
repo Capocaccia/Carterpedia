@@ -171,12 +171,38 @@ li {
 }
 
 .waterfall {
-  max-width: 100%;
+  padding-left: 5%;
+  max-width: 90%;
   margin-top: 10px;
 }
 
+.waterfallContainer {
+  margin-top: 15px;
+  border: 1px solid #CCC;
+}
+
+.waterfallTagline {
+  text-align: center;
+  font-size: 11px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
 .nfsc {
-  max-width: 100%;
+  margin-top: 10px;
+  max-width: 90%;
+  padding-left: 5%;
+}
+
+.nfscContainer {
+  border: 1px solid #CCC;
+}
+
+.nfscTagline {
+  text-align: center;
+  font-size: 11px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
 }
 
 .crHref {
@@ -184,5 +210,18 @@ li {
 }
 
 .cRun {
-  max-width: 100%;
+  margin-top: 10px;
+  padding-left: 5%;
+  max-width: 90%;
+}
+
+.crunContainer {
+  border: 1px solid #CCC;
+}
+
+.crunTagline {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 11px;
+  margin-bottom: 10px;
 }
