@@ -182,3 +182,7 @@ li {
 .crHref {
   border: none;
 }
+
+.cRun {
+  max-width: 100%;
+}
