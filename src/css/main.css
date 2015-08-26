@@ -16,6 +16,11 @@ a{
   margin-top: 5px
 }
 
+.paragraphHr {
+  border-color: #AAAAAA;
+  margin: 0 0 0 0;
+}
+
 .topHr  {
   margin: 0  0 0;
   width: 100%;
@@ -50,6 +55,7 @@ li {
   font-family: "Helvetica Neue";
   border: 1px solid grey;
   margin-left: -5px;
+  background-color: #f9f9f9;
 }
 
 .oneTwo {
@@ -74,6 +80,10 @@ li {
 
 .globeFrame {
   text-align: center;
+}
+
+.navButtons {
+  margin-bottom: 0;
 }
 
 .nav {
@@ -130,8 +140,28 @@ li {
 }
 
 .twitBlue {
-  height: 16px;
-  width: 16px;
+  height: 40px;
+  width: 40px;
+}
+
+.linkedIn {
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+}
+
+.strava {
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+  padding-left: 2px;
+}
+
+.github {
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+  padding-left: 2px;
 }
 
 .pHeaders {
