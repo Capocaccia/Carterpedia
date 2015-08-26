@@ -76,6 +76,8 @@ li {
   font-family: "Sans Serif";
   font-weight: bold;
   max-width: 100%;
+  height: 105px;
+  width: 105px;
 }
 
 .globeFrame {
@@ -166,4 +168,13 @@ li {
 
 .pHeaders {
   margin: 0 0 -5px 0;
+}
+
+.waterfall {
+  max-width: 100%;
+  margin-top: 10px;
+}
+
+.nfsc {
+  max-width: 100%;
 }
