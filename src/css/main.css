@@ -178,3 +178,7 @@ li {
 .nfsc {
   max-width: 100%;
 }
+
+.crHref {
+  border: none;
+}
