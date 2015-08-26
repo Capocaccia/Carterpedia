@@ -84,10 +84,6 @@ li {
   text-align: center;
 }
 
-.navButtons {
-  margin-bottom: 0;
-}
-
 .nav {
   text-align: center;
 }
@@ -112,7 +108,8 @@ li {
 }
 
 .mainText {
-  font-size: large
+  font-size: 1em;
+  font-family: sans-serif;
 }
 
 .lifeCareer{
@@ -120,8 +117,8 @@ li {
 }
 
 .lifeCareerHeader {
-  font-family: "Sans Serif";
-  font-size: 20px;
+  font-family: sans-serif;
+  font-size: 1em;
 }
 
 .contactMe {
@@ -205,6 +202,11 @@ li {
   margin-bottom: 10px;
 }
 
+.nfscDescription {
+  font-size: 1em;
+  font-family: sans-serif;
+}
+
 .crHref {
   border: none;
 }
@@ -213,6 +215,11 @@ li {
   margin-top: 10px;
   padding-left: 5%;
   max-width: 90%;
+}
+
+.crunDescription {
+  font-size: 1em;
+  font-family: sans-serif;
 }
 
 .crunContainer {
@@ -224,4 +231,17 @@ li {
   text-align: center;
   font-size: 11px;
   margin-bottom: 10px;
+}
+
+.socialMedia {
+  display: inline;
+}
+
+.socialMediaList {
+  margin-bottom: 2px;
+}
+
+.projects {
+  margin-top: 10px;
+  font-size: 1em;
 }
