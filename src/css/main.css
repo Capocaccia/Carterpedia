@@ -1,5 +1,5 @@
 .main {
-  font-family: "Sans Serif";
+  font-family: Serif;
   margin-left: 25px;
 }
 
@@ -28,7 +28,6 @@ a{
 }
 
 .cardBorder {
-  font-family: "Helvetica Neue";
   border: 1px solid grey;
   text-align: center;
   margin-top: 120px;
@@ -38,7 +37,7 @@ a{
 .cardContents {
   margin-top: 10px;
   margin-left: 10px;
-  font-family: "Helvetica Neue";
+  font-size: 0.8em;
   text-align: left;
 }
 
@@ -97,13 +96,13 @@ li {
 
 .navHeader {
   text-align: center;
-  font-family: "Linux Libertine";
+  font-family: Serif;
 }
 
 .navTag{
   margin-top: -30px;
   font-size: 13px;
-  font-family: "Linux Libertine";
+  font-family: Serif;
   text-align: center;
 }
 
@@ -165,6 +164,7 @@ li {
 
 .pHeaders {
   margin: 0 0 -5px 0;
+  font-family: Serif;
 }
 
 .waterfall {
