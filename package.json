@@ -22,7 +22,5 @@
   },
   "homepage": "https://github.com/Capocaccia/Carterpedia",
   "dependencies": {
-    "bootstrap": "^3.3.5",
-    "jquery": "^2.1.4"
   }
 }
